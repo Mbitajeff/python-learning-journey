@@ -12,11 +12,15 @@ This journey is inspired by the 30 Days of Python challenge. Each day, I'll cove
 
 # Progress Tracker
 Day	Topic	Status	Notes
+
 Day 1	Variables and Loops	✅ Completed	Day 1 Notes
+
 Day 2	Functions	✅ Completed	Day 2 Notes
+
 Day 3	Lists and Dictionaries	🕑 In Progress	
 ...	...		
 Day 30	Final Project	❌ Pending	
+
 Daily Learning Notes
 Each day’s folder contains:
 
