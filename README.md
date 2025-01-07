@@ -21,7 +21,7 @@ Day 3	Lists and Dictionaries	🕑 In Progress
 ...	...		
 Day 30	Final Project	❌ Pending	
 
-Daily Learning Notes
+# Daily Learning Notes
 Each day’s folder contains:
 
 Python code (.py files) with exercises and examples.
@@ -32,7 +32,7 @@ Day 1: Variables and Loops
 
 Day 2: Functions
 
-How to Run the Code
+# How to Run the Code
 To run the Python scripts in this repository:
 
 # Clone the repository:
@@ -43,7 +43,7 @@ git clone (https://github.com/Mbitajeff/python-learning-journey.git)
 
 cd python-learning-journey
 
-Navigate to the day's folder:
+# Navigate to the day's folder:
 
 bash
 Copy code
@@ -55,7 +55,7 @@ Copy code
 
 python helloworld.py
 
-Learning Objectives
+# Learning Objectives
 
 Strengthen fundamental Python skills.
 
