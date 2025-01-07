@@ -29,7 +29,9 @@ A README.md file documenting what I learned, challenges I faced, and any additio
 For example:
 
 Day 1: Variables and Loops
+
 Day 2: Functions
+
 How to Run the Code
 To run the Python scripts in this repository:
 
@@ -38,7 +40,9 @@ To run the Python scripts in this repository:
 bash
 Copy code
 git clone (https://github.com/Mbitajeff/python-learning-journey.git)
+
 cd python-learning-journey
+
 Navigate to the day's folder:
 
 bash
@@ -48,13 +52,20 @@ Run the Python file:
 
 bash
 Copy code
-python exercise.py
+
+python helloworld.py
+
 Learning Objectives
+
 Strengthen fundamental Python skills.
+
 Gain hands-on experience with Python libraries.
+
 Solve coding challenges and document solutions.
+
 Build small projects to showcase my learning.
-Contact
+
+# Contact
 I’m always open to feedback and collaboration! Reach out to me:
 
 GitHub: Mbitajeff
